@@ -32,4 +32,4 @@ The owner's direction is to **follow the designs closely** for the personal webs
 - Obtain actual project destinations, social profile links, resume, and contact details from the owner when needed. Do not invent these or claim a contact form sends messages without a working submission mechanism.
 - Compare the rendered implementation against the Figma screens before considering it complete.
 
-This document links the designs to the repository for future implementation. It does not implement the remaining website screens or establish automatic Figma synchronization.
+The React implementation in `src/` follows these screens, with responsive layouts, functional navigation, a resume preview and PDF link, and an email draft form. The empty photo collage from Figma is preserved; project URLs and Instagram await supplied destinations. This does not establish automatic Figma synchronization.
